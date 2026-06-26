@@ -54,14 +54,6 @@ An **Agentic Retrieval-Augmented Generation (RAG)** system built using **LangGra
 * Educational PDF Chatbot
 * Hybrid Knowledge Assistant
 
-## Future Improvements
-
-* Support multiple document collections
-* Conversation memory
-* Source citation and references
-* Streaming responses
-* Multi-modal document support
-
 ## License
 
 This project is intended for learning and research purposes.
